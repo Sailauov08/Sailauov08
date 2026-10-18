@@ -3,9 +3,9 @@
 
 
 <img
+  src="https://raw.githubusercontent.com/Sailauov08/Sailauov08/main/github-banner.png"
   width="100%"
-  src="https://raw.githubusercontent.com/Sailauov08/Sailauov08/main/bekarys-github-banner.svg"
-  alt="Bekarys Sailauov - Developer Portfolio"
+  alt="Bekarys Sailauov — Developer Portfolio"
 />
 
 
