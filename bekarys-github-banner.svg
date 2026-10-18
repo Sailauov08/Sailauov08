@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Bekarys Sailauov — Developer Portfolio</title>
+<desc id="desc">Minimal dark blue developer banner with cyan and violet highlights.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090f20"/><stop offset=".58" stop-color="#111b35"/><stop offset="1" stop-color="#071b29"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#70E5FC"/><stop offset=".55" stop-color="#8CA8FF"/><stop offset="1" stop-color="#AF83FC"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#44D8F5" stop-opacity=".65"/><stop offset="1" stop-color="#A37CFA" stop-opacity=".1"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#A0B9DB" stroke-width=".6" opacity=".095"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1200" height="330" rx="18" fill="url(#background)"/>
+<rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<circle cx="1057" cy="143" r="120" fill="#5C56ED" opacity=".12" filter="url(#glow)"/>
+<circle cx="973" cy="210" r="102" fill="#09CEE8" opacity=".10" filter="url(#glow)"/>
+<path d="M0 0h1200v330H0z" fill="none" stroke="#253C58" stroke-width="2" rx="18"/>
+<rect x="58" y="43" width="7" height="17" rx="3.5" fill="#5DE0F9"/>
+<text x="78" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#9AB5D7">DEVELOPER PORTFOLIO</text>
+<text x="58" y="144" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="750" letter-spacing="1.6" fill="#F3F7FF">BEKARYS</text>
+<text x="58" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="750" letter-spacing="1.6" fill="url(#accent)">SAILAUOV</text>
+<path d="M58 229H682" stroke="url(#line)" stroke-width="2"/>
+<text x="58" y="265" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#B5C9E3">Software Engineer  <tspan fill="#5CDFF4">·</tspan>  Full-Stack Developer  <tspan fill="#9A8CFB">·</tspan>  AI/ML</text>
+<text x="58" y="294" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1.15" fill="#7790B1">BUILD  /  LEARN  /  INNOVATE</text>
+<g transform="translate(842,42)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="152" cy="120" r="103" stroke="#384D7A" stroke-width="1.5" opacity=".8"/>
+  <circle cx="152" cy="120" r="77" stroke="#446A91" stroke-width="1" stroke-dasharray="4 9" opacity=".85"/>
+  <path d="M93 120l-25 22 25 22M211 120l25 22-25 22M174 111l-30 66" stroke="url(#accent)" stroke-width="5" transform="translate(0,-21)"/>
+  <path d="M37 77h30M253 171h28M221 30v27M90 223v22" stroke="#46C8E6" opacity=".65" stroke-width="2"/>
+  <circle cx="37" cy="77" r="4" fill="#54DCF0" stroke="none"/>
+  <circle cx="281" cy="171" r="4" fill="#A08CFF" stroke="none"/>
+  <circle cx="221" cy="30" r="4" fill="#A08CFF" stroke="none"/>
+</g>
+</svg>
