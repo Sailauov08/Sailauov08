@@ -103,51 +103,86 @@ I believe the best way to grow as an engineer is to **learn, build, experiment a
 
 ---
 
-## ◈ 03 — FEATURED PROJECTS
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<div align="center">
+<p align="center">
+  A showcase of my full-stack and AI engineering projects.
+</p>
 
-### QOLDAU AI
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-**AI-Powered Legal Information Assistant**
+<h2>🎬 KinoLand</h2>
 
-An intelligent platform designed to help users navigate legal information, understand procedures and discover practical solutions.
+<strong>Cinematic Movie Discovery Platform</strong>
 
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/RAG-4338CA?style=flat-square"/>
+<br/><br/>
 
-*Repository showcase coming soon.*
+<img src="https://img.shields.io/badge/STATUS-LIVE-22C55E?style=for-the-badge&logo=render&logoColor=white" />
 
-<br/>
+<br/><br/>
 
-### MORE PROJECTS
+A modern full-stack movie discovery platform featuring real movie data, personalized watchlists, advanced search, analytics and an admin dashboard.
 
-<a href="https://github.com/Sailauov08/Beka-AI-Chatbot">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sailauov08&repo=Beka-AI-Chatbot&theme=tokyonight&hide_border=true&bg_color=101827&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" alt="Beka AI Chatbot"/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase,postgres&theme=dark" />
+
+<br/><br/>
+
+<a href="https://github.com/Sailauov08/KinpLand">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Sailauov08/kz-auto-market-analysis">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sailauov08&repo=kz-auto-market-analysis&theme=tokyonight&hide_border=true&bg_color=101827&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" alt="Auto Market Analysis"/>
+
+<a href="https://kinoland-thec.onrender.com/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://github.com/Sailauov08/bank-customer-churn-analytics">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sailauov08&repo=bank-customer-churn-analytics&theme=tokyonight&hide_border=true&bg_color=101827&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" alt="Customer Churn Analytics"/>
-</a>
-<a href="https://github.com/Sailauov08/project3_ml_deployment">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sailauov08&repo=project3_ml_deployment&theme=tokyonight&hide_border=true&bg_color=101827&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" alt="ML Deployment"/>
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h2>🤖 Qoldau AI</h2>
+
+<strong>AI-Powered Smart City Assistant</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROJECT-AI_POWERED-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+An intelligent AI assistant helping residents navigate official procedures, understand legal information and find practical solutions using verified sources and RAG technology.
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,python,fastapi,postgres,docker&theme=dark" />
+
+<br/><br/>
+
+<a href="https://github.com/Sailauov08/qoldau">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
+<sub>Private repository — restricted access</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
 <a href="https://github.com/Sailauov08?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-4338CA?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
 
 ---
 
