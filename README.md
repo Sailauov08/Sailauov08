@@ -169,6 +169,19 @@ An intelligent platform designed to help users navigate legal information, under
 
 ---
 
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Sailauov08/Sailauov08/output/github-snake.svg"
+  alt="GitHub Contribution Snake Animation"
+  width="100%"
+/>
+
+</div>
+
+
 ## ◈ 05 — WHAT I'M WORKING ON
 
 <img src="https://img.shields.io/badge/01-Software_Architecture-101827?style=for-the-badge&labelColor=4338CA" alt="Software architecture"/>
