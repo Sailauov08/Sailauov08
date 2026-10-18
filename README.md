@@ -3,9 +3,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4338CA,100:06B6D4&height=220&section=header&text=BEKARYS%20SAILAUOV&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=16&animation=fadeIn" alt="Portfolio header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=680&lines=Engineering+Ideas+Into+Reality;Building+Intelligent+Digital+Products;Exploring+AI+and+Scalable+Systems;Code.+Build.+Learn.+Innovate." alt="Typing animation"/>
 
-<br/><br/>
+<p align="center">
+  <strong>Building Intelligent Software & Scalable Digital Solutions</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=flat-square&logo=github&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-0D1117?style=flat-square&logo=react&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-0D1117?style=flat-square&logo=python&logoColor=A78BFA" />
+</p>
+
 
 <a href="https://github.com/Sailauov08">
 <img src="https://img.shields.io/badge/GitHub-Sailauov08-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -13,7 +21,6 @@
 
 <img src="https://img.shields.io/badge/Location-Almaty%2C_Kazakhstan-161B22?style=for-the-badge&logo=googlemaps&logoColor=67E8F9" alt="Location"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sailauov08&color=4338CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
