@@ -1,7 +1,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4338CA,100:06B6D4&height=220&section=header&text=BEKARYS%20SAILAUOV&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML&descAlignY=60&descSize=16&animation=fadeIn" alt="Portfolio header"/>
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Sailauov08/Sailauov08/main/bekarys-github-banner.svg"
+  alt="Bekarys Sailauov - Developer Portfolio"
+/>
+
 
 
 <p align="center">
