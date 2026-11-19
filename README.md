@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=flat-square&logo=github&logoColor=67E8F9" />
   <img src="https://img.shields.io/badge/Full--Stack_Development-0D1117?style=flat-square&logo=react&logoColor=67E8F9" />
+  <img src="https://img.shields.io/badge/Data_Science-0D1117?style=flat-square&logo=python&logoColor=67E8F9" />
   <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-0D1117?style=flat-square&logo=python&logoColor=A78BFA" />
 </p>
 
@@ -40,19 +40,21 @@
 
 ### Hello, I'm Bekarys.
 
-Software Engineering student at **International Information Technology University (IITU)**, Kazakhstan.
+I'm a **Data Science student at International Information Technology University (IITU)**, Kazakhstan, currently focused on **Full-Stack Development**.
 
-I am passionate about developing intelligent applications, designing reliable software systems, and transforming ideas into practical digital solutions.
+I enjoy building practical web applications, working with modern technologies, and solving real-world problems through code.
 
 My work and interests connect three major fields:
 
-- **Software Engineering** — architecture, algorithms and reliable systems.
-- **Full-Stack Development** — modern web applications, APIs and databases.
-- **AI & Machine Learning** — intelligent assistants, automation and data-driven solutions.
+- **Full-Stack Development** — building modern web applications with frontend, backend, APIs and databases.
+- **Data Science** — exploring data analysis, statistics, Python and machine learning.
+- **Software Engineering** — improving code quality, architecture and problem-solving skills.
 
-I believe the best way to grow as an engineer is to **learn, build, experiment and improve continuously.**
+I'm also interested in **AI & Machine Learning** and how intelligent technologies can be integrated into real-world applications.
 
-**Currently focused on:** AI applications, scalable backend systems, full-stack development and MLOps.
+I believe the best way to grow as a developer is to **learn, build, experiment and improve continuously.**
+
+**Currently focused on:** full-stack web applications, backend development, databases and strengthening my Data Science skills.
 
 <br clear="right"/>
 
@@ -219,21 +221,21 @@ An intelligent AI assistant helping residents navigate official procedures, unde
 
 ## ◈ 05 — WHAT I'M WORKING ON
 
-<img src="https://img.shields.io/badge/01-Software_Architecture-101827?style=for-the-badge&labelColor=4338CA" alt="Software architecture"/>
+<img src="https://img.shields.io/badge/01-Full--Stack_Development-101827?style=for-the-badge&labelColor=4338CA" alt="Full-stack development"/>
 
-Designing maintainable systems and improving engineering practices.
+Building modern web applications with frontend, backend, APIs and databases.
 
-<img src="https://img.shields.io/badge/02-Full--Stack_Applications-101827?style=for-the-badge&labelColor=4338CA" alt="Full-stack development"/>
+<img src="https://img.shields.io/badge/02-Backend_%26_Architecture-101827?style=for-the-badge&labelColor=4338CA" alt="Backend and architecture"/>
 
-Building modern frontend experiences and reliable backend services.
+Developing reliable backend services and improving software architecture skills.
 
-<img src="https://img.shields.io/badge/03-AI_Engineering-101827?style=for-the-badge&labelColor=4338CA" alt="AI engineering"/>
+<img src="https://img.shields.io/badge/03-Data_Science-101827?style=for-the-badge&labelColor=4338CA" alt="Data Science"/>
 
-Exploring AI assistants, retrieval systems and intelligent workflows.
+Learning data analysis, statistics, Python and machine learning.
 
-<img src="https://img.shields.io/badge/04-Data_%26_MLOps-101827?style=for-the-badge&labelColor=4338CA" alt="Data and MLOps"/>
+<img src="https://img.shields.io/badge/04-AI_%26_Machine_Learning-101827?style=for-the-badge&labelColor=4338CA" alt="AI and Machine Learning"/>
 
-Learning model deployment, automation and data-driven engineering.
+Exploring AI applications and intelligent, data-driven solutions.
 
 <br/>
 
